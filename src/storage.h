@@ -1,7 +1,7 @@
 #ifndef STORAGE_H
 #define STORAGE_H
 
-#define MAX_CARDS 1000
+#define MAX_CARDS 100
 
 typedef struct {
     char question[256];
