@@ -1,8 +1,3 @@
 #include<stdio.h>
-#include"logic.h"
+#include"storage.h"
 #include"ui.c"
-
-int main()
-{
-    
-}
